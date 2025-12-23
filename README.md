@@ -56,6 +56,38 @@ ServiceCom is a full-featured web application that enables users to post service
 - My Applications: Track submitted applications
 - Saved Services: Manage bookmarked services
 
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+<img src="home.png" width="700">
+<img src="home2.png" width="700">
+<img src="home3.png" width="700">
+
+---
+
+### 🔐 Authentication
+<img src="login.png" width="700">
+<img src="register.png" width="700">
+
+---
+
+### 👤 Client Area
+<img src="page client.png" width="700">
+
+---
+
+### 🛠️ Services
+<img src="service.png" width="700">
+<img src="service aplication.png" width="700">
+
+---
+
+### 🧑‍💼 Administration Dashboard
+<img src="administration.png" width="700">
+
+---
+
 ## Installation ##
 
 **Clone the repository**
