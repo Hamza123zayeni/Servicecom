@@ -11,7 +11,6 @@ ServiceCom is a full-featured web application that enables users to post service
 + Service Management: Create, edit, and delete service listings with detailed information
 + Application Tracking: Monitor applications received on posted services
 + Profile Customization: Manage profile with image uploads and professional details
-![ServiceCom Screenshot](images/hamza.png)
 
 ### For Service Seekers ###
 
@@ -61,6 +60,8 @@ ServiceCom is a full-featured web application that enables users to post service
 
 ### 🏠 Homepage
 ![ServiceCom Screenshot](images/home.png)
+![ServiceCom Screenshot](images/home2.png)
+![ServiceCom Screenshot](images/home3.png)
 <img src="home.png" width="700">
 <img src="home2.png" width="700">
 <img src="home3.png" width="700">
@@ -68,23 +69,29 @@ ServiceCom is a full-featured web application that enables users to post service
 ---
 
 ### 🔐 Authentication
+![ServiceCom Screenshot](images/login.png)
+![ServiceCom Screenshot](images/register.png)
 <img src="login.png" width="700">
 <img src="register.png" width="700">
 
 ---
 
 ### 👤 Client Area
+![ServiceCom Screenshot](images/page client.png)
 <img src="page client.png" width="700">
 
 ---
 
 ### 🛠️ Services
+![ServiceCom Screenshot](images/service.png)
+![ServiceCom Screenshot](images/service aplication.png)
 <img src="service.png" width="700">
 <img src="service aplication.png" width="700">
 
 ---
 
 ### 🧑‍💼 Administration Dashboard
+![ServiceCom Screenshot](images/administration.png)
 <img src="administration.png" width="700">
 
 ---
