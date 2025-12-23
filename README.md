@@ -62,37 +62,33 @@ ServiceCom is a full-featured web application that enables users to post service
 ![ServiceCom Screenshot](images/home.png)
 ![ServiceCom Screenshot](images/home2.png)
 ![ServiceCom Screenshot](images/home3.png)
-<img src="home.png" width="700">
-<img src="home2.png" width="700">
-<img src="home3.png" width="700">
+
 
 ---
 
 ### 🔐 Authentication
 ![ServiceCom Screenshot](images/login.png)
 ![ServiceCom Screenshot](images/register.png)
-<img src="login.png" width="700">
-<img src="register.png" width="700">
+
 
 ---
 
 ### 👤 Client Area
 ![ServiceCom Screenshot](images/page client.png)
-<img src="page client.png" width="700">
+
 
 ---
 
 ### 🛠️ Services
 ![ServiceCom Screenshot](images/service.png)
-![ServiceCom Screenshot](images/service aplication.png)
-<img src="service.png" width="700">
-<img src="service aplication.png" width="700">
+![ServiceCom Screenshot](images/service_aplication.png)
+
 
 ---
 
 ### 🧑‍💼 Administration Dashboard
 ![ServiceCom Screenshot](images/administration.png)
-<img src="administration.png" width="700">
+
 
 ---
 
