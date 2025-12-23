@@ -94,13 +94,9 @@ ServiceCom is a full-featured web application that enables users to post service
 - Secure file upload handling
 - Role-based access control for admin features
 
-## License ##
-
-This project is open-sourced software licensed under the MIT license. README.md
-
 ## Author ##
 
-Wassim Barhoumi
+Hamza Zayeni
 
 ## Notes ##
 
