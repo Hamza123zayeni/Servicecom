@@ -60,6 +60,7 @@ ServiceCom is a full-featured web application that enables users to post service
 ## 📸 Screenshots
 
 ### 🏠 Homepage
+![ServiceCom Screenshot](images/home.png)
 <img src="home.png" width="700">
 <img src="home2.png" width="700">
 <img src="home3.png" width="700">
