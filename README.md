@@ -11,6 +11,7 @@ ServiceCom is a full-featured web application that enables users to post service
 + Service Management: Create, edit, and delete service listings with detailed information
 + Application Tracking: Monitor applications received on posted services
 + Profile Customization: Manage profile with image uploads and professional details
+![ServiceCom Screenshot](images/hamza.png)
 
 ### For Service Seekers ###
 
