@@ -16,6 +16,34 @@ use Illuminate\Support\Facades\Mail;
 
 class ServicesController extends Controller
 {
+    // this method shows product/service comparison page
+    public function comparison(Request $request) {
+        $categories = Category::where('status',1)->orderBy('name','ASC')->get();
+        $serviceTypes = ServiceType::where('status',1)->orderBy('name','ASC')->get();
+
+        $services = Service::where('status',1)->with(['serviceType','category']);
+
+        if(!empty($request->category)) {
+            $services = $services->where('category_id', $request->category);
+        }
+
+        if(!empty($request->serviceType)) {
+            $services = $services->where('service_type_id', $request->serviceType);
+        }
+
+        if(!empty($request->maxPrice)) {
+            $services = $services->whereNotNull('salary')->where('salary', '<=', $request->maxPrice);
+        }
+
+        $services = $services->orderBy('created_at','DESC')->take(12)->get();
+
+        return view('front.comparison', [
+            'categories' => $categories,
+            'serviceTypes' => $serviceTypes,
+            'services' => $services,
+        ]);
+    }
+
     //this method will show the services page
     public function index(Request $request) {
 
