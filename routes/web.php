@@ -30,6 +30,7 @@ use Illuminate\Support\Facades\Route;
 }); */
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/services', [ServicesController::class, 'index'])->name('services');
+Route::get('/comparison', [ServicesController::class, 'comparison'])->name('comparison');
 Route::get('/services/detail/{id}', [ServicesController::class, 'detail'])->name('serviceDetail');
 Route::post('/apply-service', [ServicesController::class, 'applyService'])->name('applyService');
 Route::post('/save-service', [ServicesController::class, 'saveService'])->name('saveService');
